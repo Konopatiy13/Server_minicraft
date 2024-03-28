@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "83ba6497-01e7-3d1e-ad67-a484668a4f9a",
+    "name": "123567",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cf5dcc0c-9aef-3595-b397-18e57728f9b9",
+    "name": "Konopatiy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "23aed58b-69a7-3fca-9f11-9de006b96dc3",
+    "name": "1234567",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "49f2edd9-fe36-3176-b150-ce4407e49e2e",
+    "name": "Milkingooo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

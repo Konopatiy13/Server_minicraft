@@ -1,0 +1,30 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-03-26 20:23:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2024-03-26 20:24:19 +0300",
+      "minecraft:savanna_plateau": "2024-03-26 20:24:11 +0300",
+      "minecraft:savanna": "2024-03-26 20:23:49 +0300",
+      "minecraft:plains": "2024-03-26 20:45:32 +0300"
+    },
+    "done": false
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-03-26 20:38:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-03-26 20:38:46 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}

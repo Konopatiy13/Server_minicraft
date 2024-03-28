@@ -1,0 +1,98 @@
+[20:26:56] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[20:26:56] [main/INFO]: Loading 5 mods:
+	- fabricloader 0.15.7
+	   \-- mixinextras 0.3.5
+	- java 17
+	- lithium 0.12.1
+	- minecraft 1.20.4
+[20:26:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/Server%20minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[20:26:56] [main/INFO]: Compatibility level set to JAVA_16
+[20:26:56] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 0 override(s) found
+[20:26:59] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[20:27:15] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:27:19] [main/INFO]: Loaded 7 recipes
+[20:27:19] [main/INFO]: Loaded 1271 advancements
+[20:27:21] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:27:21] [Server thread/INFO]: Loading properties
+[20:27:21] [Server thread/INFO]: Default game type: SURVIVAL
+[20:27:21] [Server thread/INFO]: Generating keypair
+[20:27:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:27:21] [Server thread/INFO]: Using default channel type
+[20:27:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:27:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:27:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:27:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:27:21] [Server thread/INFO]: Preparing level "world1488"
+[20:27:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:27:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:27:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:27:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:27:30] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[20:27:31] [Worker-Main-3/INFO]: Preparing spawn area: 85%
+[20:27:31] [Server thread/INFO]: Time elapsed: 6521 ms
+[20:27:31] [Server thread/INFO]: Done (10.096s)! For help, type "help"
+[20:27:56] [Server thread/INFO]: Konopatiy[/127.0.0.1:55722] logged in with entity id 105 at (2.2739084115506385, 133.0, 99.6079504267499)
+[20:27:56] [Server thread/INFO]: Konopatiy joined the game
+[20:29:41] [Server thread/INFO]: Konopatiy lost connection: Disconnected
+[20:29:41] [Server thread/INFO]: Konopatiy left the game
+[20:34:38] [Server thread/INFO]: Milkingooo[/192.168.1.84:57742] logged in with entity id 287 at (5.5, 108.0, 26.5)
+[20:34:38] [Server thread/INFO]: Milkingooo joined the game
+[20:34:42] [Server thread/INFO]: Konopatiy[/127.0.0.1:55740] logged in with entity id 365 at (36.2010177422289, 121.0, 107.51224108733025)
+[20:34:42] [Server thread/INFO]: Konopatiy joined the game
+[20:38:08] [Server thread/INFO]: Made Konopatiy a server operator
+[20:38:14] [Server thread/INFO]: [Konopatiy: Set own game mode to Creative Mode]
+[20:38:40] [Server thread/INFO]: [Konopatiy: Teleported Milkingooo to Konopatiy]
+[20:38:40] [Server thread/INFO]: Milkingooo has made the advancement [The End?]
+[20:38:41] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:38:41] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[20:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[20:38:46] [Server thread/INFO]: Konopatiy has made the advancement [The End?]
+[20:38:47] [Server thread/WARN]: Konopatiy moved too quickly! 91.40551736494925,-78.66741750008309,-113.07765728551453
+[20:38:47] [Server thread/WARN]: Konopatiy moved too quickly! 91.40551736494925,-78.66741750008309,-113.07765728551453
+[20:38:51] [Server thread/INFO]: [Konopatiy: Set own game mode to Spectator Mode]
+[20:38:57] [Server thread/INFO]: [Konopatiy: Teleported Milkingooo to Konopatiy]
+[20:38:57] [Server thread/WARN]: Milkingooo moved too quickly! -1.5922343752138062,14.319907841649119,0.04886469702903051
+[20:39:00] [Server thread/INFO]: [Konopatiy: Set own game mode to Creative Mode]
+[20:39:12] [Server thread/INFO]: Milkingooo was slain by Enderman
+[20:39:25] [Server thread/INFO]: [Konopatiy: Applied effect Strength to Milkingooo]
+[20:39:29] [Server thread/INFO]: [Konopatiy: Teleported Milkingooo to Konopatiy]
+[20:39:38] [Server thread/INFO]: Milkingooo has made the advancement [Monster Hunter]
+[20:39:53] [Server thread/INFO]: [Konopatiy: Applied effect Health Boost to Milkingooo]
+[20:40:18] [Server thread/INFO]: [Konopatiy: Applied effect Regeneration to Milkingooo]
+[20:40:51] [Server thread/INFO]: [Konopatiy: Applied effect Saturation to Milkingooo]
+[20:42:24] [Server thread/INFO]: [Konopatiy: Gave 1 [Bow] to Milkingooo]
+[20:42:55] [Server thread/INFO]: Milkingooo has made the advancement [Free the End]
+[20:43:11] [Server thread/INFO]: [Konopatiy: Gave 64 [Arrow] to Milkingooo]
+[20:43:34] [Server thread/INFO]: [Konopatiy: Summoned new Ender Dragon]
+[20:43:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=112, z=32}
+[20:43:57] [Server thread/INFO]: Milkingooo was killed
+[20:43:57] [Server thread/INFO]: Konopatiy was killed
+[20:43:57] [Server thread/INFO]: [Konopatiy: Killed 203 entities]
+[20:44:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=112, z=32}
+[20:44:08] [Server thread/INFO]: [Konopatiy: Made Milkingooo a server operator]
+[20:44:17] [Server thread/INFO]: [Milkingooo: Set own game mode to Creative Mode]
+[20:44:21] [Server thread/INFO]: [Milkingooo: Set own game mode to Survival Mode]
+[20:44:53] [Server thread/INFO]: Milkingooo lost connection: Disconnected
+[20:44:53] [Server thread/INFO]: Milkingooo left the game
+[20:45:11] [Server thread/INFO]: [Konopatiy: Summoned new Giant]
+[20:45:37] [Server thread/INFO]: Konopatiy lost connection: Disconnected
+[20:45:37] [Server thread/INFO]: Konopatiy left the game
+[20:45:50] [Server thread/INFO]: Stopping the server
+[20:45:50] [Server thread/INFO]: Stopping server
+[20:45:50] [Server thread/INFO]: Saving players
+[20:45:50] [Server thread/INFO]: Saving worlds
+[20:45:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world1488]'/minecraft:overworld
+[20:45:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world1488]'/minecraft:the_end
+[20:45:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world1488]'/minecraft:the_nether
+[20:45:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world1488): All chunks are saved
+[20:45:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:45:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:45:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

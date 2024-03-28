@@ -1,0 +1,1 @@
+java -Xmx2048m -Xms2048m -Dfile.encoding-UTF-8 -jar fabric-server-mc.1.20.4-loader.0.15.7-launcher.1.0.0.jar
